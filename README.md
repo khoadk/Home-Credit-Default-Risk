@@ -32,5 +32,4 @@ Kaggel Competition
 ## Diagram:
 This diagram shows how all of the data is related:
 
-![home_credit_data_structure.png](attachment:home_credit_data_structure.png)
-
+![home_credit_data_structure](https://user-images.githubusercontent.com/31940025/51610935-ab307580-1ee3-11e9-8dc7-5ed8ecde561c.png)
