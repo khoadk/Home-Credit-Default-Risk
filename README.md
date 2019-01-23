@@ -1,7 +1,6 @@
 # Home-Credit-Default-Risk
 Kaggel Competition
 
-# <center>Home Credit Default Risk</center>
 
 # <a id='1'>1. Introduction/ Use Cases</a>
 * Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders.
