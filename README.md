@@ -37,11 +37,11 @@ This diagram shows how all of the data is related:
 
 # <a id='3'>3. Score results:</a>
 ## Baseline:
-* Logistic Regression model (score 0.73797) 
-* Random Forest model (score 0.69107)
-* LighGBM model (score 0.74556) 
-* Model decisions ==> LighGBM model (best scores perfromance 0.74556)
+* Logistic Regression model (score **0.73797**) 
+* Random Forest model (score **0.69107**)
+* LighGBM model (score **0.74556**) 
+* Model decisions ==> LighGBM model (best scores perfromance **0.74556**)
 
 ## Features Engineering:
-* LighBGM with Bayesian optimizatio (score 0.79331)
+* LighBGM with Bayesian optimizatio (score **0.79331**)
 
