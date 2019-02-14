@@ -34,3 +34,14 @@ data: https://www.kaggle.com/c/home-credit-default-risk
 This diagram shows how all of the data is related:
 
 ![home_credit_data_structure](https://user-images.githubusercontent.com/31940025/51610935-ab307580-1ee3-11e9-8dc7-5ed8ecde561c.png)
+
+# <a id='3'>3. Score results:</a>
+## Baseline:
+* Logistic Regression model (score 0.73797) 
+* Random Forest model (score 0.69107)
+* LighGBM model (score 0.74556) 
+* Model decisions ==> LighGBM model (best scores perfromance 0.74556)
+
+## Features Engineering:
+* LighBGM with Bayesian optimizatio (score 0.79331)
+
